@@ -1,4 +1,5 @@
-//REVERSE
+//REVERSE STRING
+import java.lang.*
  
 // Class of ReverseString
 class ReverseString
